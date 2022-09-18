@@ -27,5 +27,5 @@ Obs2: Não se pode ter um mesmo e-mail associado ao CPF e ao CNPJ.**
 * Pode ter mais de uma forma de pagamento
 
 `Entrega `<br />
-* Possui status e codigo de rastreio
+* Possui status e código de rastreio
 
