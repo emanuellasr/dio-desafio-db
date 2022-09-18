@@ -4,7 +4,7 @@ Desafios de Projeto pertencente ao bootcamp Database Experience oferecido pela D
 
 Refinando um projeto conceitual de banco de dados E-Commerce
  
-Contexto
+*Contexto*
 Produto: 
 Os produtos são vendidos por uma única plataforma online, contudo, eles podem ter vendedores distintos(terceiros).
 Cada produto possui um fornecedor
