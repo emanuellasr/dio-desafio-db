@@ -1,4 +1,4 @@
-<h1 align="center"> Repositório para os desafios do Bootcamp Databsase Experience</h1>
+<h1 align="center"> Repositório para os desafios do Bootcamp Database Experience</h1>
 
 <h2 align="center">Desafios de Projeto pertencentes ao bootcamp Database Experience oferecido pela DIO.</h2>
 
