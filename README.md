@@ -2,7 +2,7 @@
 
 <h2 align="center">Desafios de Projeto pertencentes ao bootcamp Database Experience oferecido pela DIO.</h2>
 
-<h3 align="center">Refinando um projeto conceitual de banco de dados E-Commerce </h3>
+<h3 align="center">1. Refinando um projeto conceitual de banco de dados E-Commerce </h3>
  
 **Contexto**
 
@@ -29,7 +29,7 @@ Obs2: Não se pode ter um mesmo e-mail associado ao CPF e ao CNPJ.**
 `Entrega `<br />
 * Possui status e código de rastreio
 
-<h3 align="center"> Construindo um esquema conceitual para banco de dados </h3>
+<h3 align="center"> 2. Construindo um esquema conceitual para banco de dados </h3>
 
 **Contexto**
 
