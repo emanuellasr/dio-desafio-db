@@ -31,6 +31,9 @@ Obs2: Não se pode ter um mesmo e-mail associado ao CPF e ao CNPJ.**
 
 <h3 align="center"> 2. Construindo um esquema conceitual para banco de dados </h3>
 
+**Objetivo**<br /><br />
+* Criar o esquema conceitual para o contexto de oficina com base na narrativa fornecida<br /><br />
+
 **Contexto**
 
 * Sistema de controle e gerenciamento e gerenciamento de execução de ordens de serviço em uma oficina mecânica<br /><br />
