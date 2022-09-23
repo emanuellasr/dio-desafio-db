@@ -92,4 +92,26 @@ Obs2: Não se pode ter um mesmo e-mail associado ao CPF e ao CNPJ.**
 
 <h3 align="center"> 5. O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados</h3><br />
 
-* Neste desafio, você terá a missão de compreender o papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados. Para isso, anote todos os conceitos, definições e insights que julgar relevantes em um novo repositório Git, aumentando assim seu portfolio de conhecimentos.
+1) Neste desafio, você terá a missão de compreender o papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados. Para isso, anote todos os conceitos, definições e insights que julgar relevantes em um novo repositório Git, aumentando assim seu portfolio de conhecimentos.<br />
+
+* Banco de dados possui uma definição bem abrangente, podendo ser tido como um conjunto de dados que possuem relação entre si abrangendo uma representação do mundo real(o que é definido como mini-mundo), sendo que as mudanças no minimundo interferem diretamente no banco de dados, as informações contidas em um banco de dados estão relacionadas à algo ou alguém. <br />
+
+**Pode ser dividido em:**<br />
+
+**1.1 Banco de dados relacionais (SQL):**<br />
+
+Tipo de banco de dados que armazena e organiza pontos de dados com um relacionamento pré definido entre si. Os dados são organizados em tabelas que apresentam informações sobre os objetos que serão representados no banco de dados; <br />
+
+Outro ponto a destacar nos bancos de dados relacionais são DDL(Data Definition Language) e DML(Data Manipulation Language), pois são utilizados para manipular as tabelas e os dados respectivamente. <br />
+
+Um dos pontos positivos desse tipo de modelo é ele foi projetado para garantir consistência, preservando assim a integridade dos dados, entre aplicativos e as instancias. <br />
+
+**1.2 Banco de dados não relacionais (NoSQL):**<br />
+
+Possibilitam que os dados sejam armazenados de um modo mais fácil de compreender, basicamente quase da mesma maneira em que os dados são utilizados pelos apps. Possui um grande potencial de escalabilidade, além de terem sido projetados para um desenvolvimento rápido; possibilitando um processamento ágil de dados e velocidade de consulta alta. <br />
+
+Possui um escalonamento do tipo horizontal, possibilitando assim que lidem com uma grande quantidade de dados.<br /> 
+
+Tem uma variedade de modelos de dados, como chave-valor, documento e gráfico; no tipo chave-valor, eles fazem o pareamento de chave e valor por meio de uma tabela de hash. O tipo documento organiza documentos em coleções; o tipo gráfico  usa um modelo baseado em nós e bordas para representar dados interconectados.<br />
+
+
