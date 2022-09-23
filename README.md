@@ -89,3 +89,7 @@ Obs2: Não se pode ter um mesmo e-mail associado ao CPF e ao CNPJ.**
 * Elabore perguntas que podem ser respondidas pelas consultas<br />
 * As cláusulas podem estar presentes em mais de uma query<br />
 * O projeto deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto lógico para fornecer o contexto sobre seu esquema lógico apresentado.
+
+<h3 align="center"> 5. O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados</h3><br />
+
+* Neste desafio, você terá a missão de compreender o papel dos Bancos de Dados Relacionais (SQL) e Não Relacionais (NoSQL) no contexto de um Engenheiro de Dados. Para isso, anote todos os conceitos, definições e insights que julgar relevantes em um novo repositório Git, aumentando assim seu portfolio de conhecimentos.
